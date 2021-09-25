@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Samarth21101999/News-Monkey-News-React-App.git/static/css/main.13fb3faf.chunk.css",
+    "main.js": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/main.e3a31be1.chunk.js",
+    "main.js.map": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/main.e3a31be1.chunk.js.map",
+    "runtime-main.js": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/runtime-main.c97ca28a.js",
+    "runtime-main.js.map": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/runtime-main.c97ca28a.js.map",
+    "static/js/2.5ff40377.chunk.js": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/2.5ff40377.chunk.js",
+    "static/js/2.5ff40377.chunk.js.map": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/2.5ff40377.chunk.js.map",
+    "static/js/3.1f204788.chunk.js": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/3.1f204788.chunk.js",
+    "static/js/3.1f204788.chunk.js.map": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/3.1f204788.chunk.js.map",
+    "index.html": "/Samarth21101999/News-Monkey-News-React-App.git/index.html",
+    "static/css/main.13fb3faf.chunk.css.map": "/Samarth21101999/News-Monkey-News-React-App.git/static/css/main.13fb3faf.chunk.css.map",
+    "static/js/2.5ff40377.chunk.js.LICENSE.txt": "/Samarth21101999/News-Monkey-News-React-App.git/static/js/2.5ff40377.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c97ca28a.js",
+    "static/js/2.5ff40377.chunk.js",
+    "static/css/main.13fb3faf.chunk.css",
+    "static/js/main.e3a31be1.chunk.js"
+  ]
+}
