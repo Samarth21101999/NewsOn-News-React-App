@@ -1,1 +1,1 @@
-# News-Monkey-News-React-App
+# NewsOn-News-React-App
